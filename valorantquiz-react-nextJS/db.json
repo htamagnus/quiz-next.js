@@ -1,0 +1,83 @@
+{
+  "bg": "https://images7.alphacoders.com/108/1081933.jpg",
+  "title": "Quiz Valorant",
+  "description": "Um quiz rápido sobre o mundo do Valorant",
+  "questions": [
+    {
+      "image": "https://media2.giphy.com/media/jRtZJvoWxWVJ7uF1cx/giphy.gif?cid=ecf05e470n9c72ggpciu9ow2ahl3nhbn2m6w6hfxa0i77msc&rid=giphy.gif&ct=g",
+      "title": "De qual personagem é a fala 'Lembra, Sabine! Você curava com sua habilidade'?",
+      "description": "Pergunta fácil em!",
+      "answer": 1,
+      "alternatives": [
+        "Chamber",
+        "Omen"
+      ]
+    },
+    {
+      "image": "https://media4.giphy.com/media/WqNmbi4La3IJg9PhcR/giphy.gif?cid=ecf05e471gb3nhrojec31qywuutxyr1y2fs8z99l4j7m923t&rid=giphy.gif&ct=g",
+      "title": "O que a Reyna diz quando ulta?",
+      "description": "E agora? Você sabe?",
+      "answer": 0,
+      "alternatives": [
+        "Foi dada a largada!",
+        "Roubando a visão!"
+      ]
+    },
+    {
+      "image": "https://media2.giphy.com/media/c7nnQ5OjcGo0bWcv3l/giphy.gif?cid=ecf05e471gb3nhrojec31qywuutxyr1y2fs8z99l4j7m923t&rid=giphy.gif&ct=g",
+      "title": "Qual classe é focada em em Smokes?",
+      "answer": 1,
+      "alternatives": [
+        "Sentinela",
+        "Controlador"
+      ]
+    },
+    {
+      "image": "https://media4.giphy.com/media/uBRwFMpdukW1hf8yqS/giphy.gif?cid=ecf05e471gb3nhrojec31qywuutxyr1y2fs8z99l4j7m923t&rid=giphy.gif&ct=g",
+      "title": "Quantos agentes existem hoje em dia?",
+      "answer": 1,
+      "alternatives": [
+        "18",
+        "21",
+        "20"
+      ]
+    },
+        {
+      "image": "https://media4.giphy.com/media/eV08lydIMcTftXX3vi/giphy.gif?cid=ecf05e47rsbmatmjve3jhucd17sxr62bm55t4v4lzmt87pca&rid=giphy.gif&ct=g",
+      "title": "Quantos pontos o Phoenix precisa para pegar sua Ultimate?",
+      "answer": 1,
+      "alternatives": [
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    {
+      "image": "https://media3.giphy.com/media/MctuLwGj40HC6ATDoI/giphy.gif?cid=ecf05e47rsbmatmjve3jhucd17sxr62bm55t4v4lzmt87pca&rid=giphy.gif&ct=g",
+      "title": "Qual o verdadeiro nome da Viper?",
+      "answer": 1,
+      "alternatives": [
+        "Mary",
+        "Sabine",
+        "Não foi revelado"
+      ]
+    }
+
+    
+  ],
+  "external": [
+    "https://aluraquiz-css.omariosouto.vercel.app/",
+    "https://aluraquiz-devsoutinho.omariosouto.vercel.app/"
+  ],
+  "theme": {
+    "colors": {
+      "primary": "#FF4652",
+      "secondary": "#FF4652",
+      "mainBg": "#141A1C",
+      "contrastText": "#dfdfdf",
+      "wrong": "#FF5722",
+      "success": "#4CAF50"
+    },
+    "borderRadius": "4px"
+  }
+}

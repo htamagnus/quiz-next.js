@@ -1,4 +1,4 @@
-# Quiz-React-Next.JS
+# Quiz-Next.JS
  
 Quiz sobre Valorant feito em Next.JS
 

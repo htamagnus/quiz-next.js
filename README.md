@@ -1,6 +1,6 @@
 # Quiz-React-Next.JS
  
-Quiz sobre Valorant feito em React e Next.JS
+Quiz sobre Valorant feito em Next.JS
 
 Tecnologias usadas:
 
